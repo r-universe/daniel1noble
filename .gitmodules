@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bayesTLS"]
+	path = bayesTLS
+	url = https://github.com/daniel1noble/bayestls
 [submodule "metaDigitise"]
 	path = metaDigitise
 	url = https://github.com/daniel1noble/metadigitise
