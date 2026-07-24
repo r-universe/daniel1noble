@@ -8,3 +8,6 @@
 [submodule "metaDigitise"]
 	path = metaDigitise
 	url = https://github.com/daniel1noble/metadigitise
+[submodule "orchaRd"]
+	path = orchaRd
+	url = https://github.com/daniel1noble/orchard
